@@ -13,6 +13,7 @@ For this project, I found two different credit card fraud datasets and experimen
 
 The first dataset can be found [here](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) and the second [here](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection).
 
+![plot](images/wordcloud.png)
 
 ## These are the steps I followed:
 
@@ -29,4 +30,4 @@ The first dataset can be found [here](https://www.kaggle.com/datasets/dhanushnar
 * Create a dashboard with power Bi which you can find [here](https://app.powerbi.com/view?r=eyJrIjoiODk1ZmMyZDMtMzBkOS00NmZmLWIzOGUtNzZkMmYzNDRhYTE1IiwidCI6ImM1ODY5MTUzLTg1YWMtNGY3Mi1iNDdjLTYyOWRmYmE0ZThlYSIsImMiOjl9)
 
 
-![plot](images/wordcloud.png)
+
