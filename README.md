@@ -29,4 +29,4 @@ The first dataset can be found [here](https://www.kaggle.com/datasets/dhanushnar
 * Create a dashboard with power Bi which you can find [here](https://app.powerbi.com/view?r=eyJrIjoiODk1ZmMyZDMtMzBkOS00NmZmLWIzOGUtNzZkMmYzNDRhYTE1IiwidCI6ImM1ODY5MTUzLTg1YWMtNGY3Mi1iNDdjLTYyOWRmYmE0ZThlYSIsImMiOjl9)
 
 
-![plot](/images/wordcloud.png)
+![plot](images/wordcloud.png)
